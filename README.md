@@ -2,7 +2,7 @@
 
 A passionate results-driven **React Developer** with 5 years of experience building scalable, high-performance web applications. I specialize in **React**, **TypeScript**, **JavaScript**, **Redux**, and modern web development, crafting intuitive and responsive UIs that enhance user experience.
 
-## Projects
+## Projects (2)
 
 These projects **demonstrate** my skills in writing **clean**, scalable, and **well-tested code**, implementing best practices in React development, and ensuring a smooth user experience with a **responsive design**.
 
