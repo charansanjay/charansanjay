@@ -6,14 +6,18 @@ A passionate results-driven **React Developer** with 5 years of experience build
 
 These projects **demonstrate** my skills in writing **clean**, scalable, and **well-tested code**, implementing best practices in React development, and ensuring a smooth user experience with a **responsive design**.
 
+---
+
 1. **Moje Pizza (Online pizza ordering Web app)** - [Repository](https://github.com/charansanjay/moje-pizza) - [Live Demo](https://moje-pizza.netlify.app) **[March - 2025]** ![ADVANCE](https://img.shields.io/badge/ADVANCE-advance?color=0088cc)
 >Currently working on more features (OAuth, Multi language, etc..).
 
-![Moje Pizza Main](./images/moje_pizza_main.jpg)
+<img src="./images/moje_pizza_main.jpg" width="800" alt="Moje Pizza Main">
+
+---
 
 2. **Travel Diary (React Leaflet)** - [Repository](https://github.com/charansanjay/travel-diary) - [Live Demo](https://travel-diary-demo.netlify.app) **[March - 2025]** ![INTERMEDIATE](https://img.shields.io/badge/INTERMEDIATE-advance?color=764abc)
 
-![Travel Diary Main](./images/travel_diary_main.jpg)
+<img src="./images/travel_diary_main.jpg" width="800" alt="Travel Diary Main">
 
 ## Technologies I work on
 
