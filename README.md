@@ -6,7 +6,7 @@ A passionate results-driven **React Developer** with 5 years of experience build
 
 These projects **demonstrate** my skills in writing **clean**, scalable, and **well-tested code**, implementing best practices in React development, and ensuring a smooth user experience with a **responsive design**.
 
-1. **Moje Pizza (Online pizza ordering Web app)** - [Repository](https://github.com/charansanjay/moje-pizza) - [Live Demo](https://moje-pizza.netlify.app/home) ![2025](https://img.shields.io/badge/March_--_2025-2025?color=764abc)
+1. **Moje Pizza (Online pizza ordering Web app)** - [Repository](https://github.com/charansanjay/moje-pizza) - [Live Demo](https://moje-pizza.netlify.app/home) **[ADVANCE]** ![2025](https://img.shields.io/badge/March_--_2025-2025?color=764abc)
 
 >Currently working on more features (OAuth, Multi language, etc..).
 
@@ -14,7 +14,7 @@ These projects **demonstrate** my skills in writing **clean**, scalable, and **w
 
 ## Technologies I work on
 
-![TypeScript](https://img.shields.io/badge/Typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) - ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white) ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-%23593d88.svg?style=flat&logo=redux&logoColor=white&color=764abc) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) [![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?logo=reacthookform&logoColor=white)](https://react-hook-form.com/)  
+[![TypeScript](https://img.shields.io/badge/TypeScript-v5.6-blue?logo=typescript)](https://www.typescriptlang.org/) [![React](https://img.shields.io/badge/React-v18.3-blue?logo=react)](https://react.dev/) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) - ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white) ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-%23593d88.svg?style=flat&logo=redux&logoColor=white&color=764abc) [![React Router](https://img.shields.io/badge/React_Router-v6-emerald?logo=react-router)](https://reactrouter.com/) [![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?logo=reacthookform&logoColor=white)](https://react-hook-form.com/)  
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) - ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)  
 
