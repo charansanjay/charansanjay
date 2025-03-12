@@ -20,7 +20,7 @@ These projects **demonstrate** my skills in writing **clean**, scalable, and **w
 
 2. **Travel Diary (React Leaflet)** - [Repository](https://github.com/charansanjay/travel-diary) - [Live Demo](https://travel-diary-demo.netlify.app) **[March - 2025]** ![INTERMEDIATE](https://img.shields.io/badge/INTERMEDIATE-advance?color=764abc)
 
-<img src="./images/travel_diary_main.jpg" width="600" alt="Travel Diary Main">
+<img src="./images/travel_diary/travel_diary_main.jpg" width="600" alt="Travel Diary Main">
 
 ## Technologies I work on
 
