@@ -11,9 +11,9 @@ These projects **demonstrate** my skills in writing **clean**, scalable, and **w
 1. **Moje Pizza (Online pizza ordering Web app)** - [Repository](https://github.com/charansanjay/moje-pizza) - [Live Demo](https://moje-pizza.netlify.app) **[March - 2025]** ![ADVANCE](https://img.shields.io/badge/ADVANCE-advance?color=0088cc)
 >Currently working on more features (OAuth, Multi language, etc..).
 
-<div style="display: flex; gap: 10px;">
-<img src='./images/moje_pizza/moje_pizza_web_gif.gif' height=350 width=600 />
-<img src='./images/moje_pizza/moje_pizza_mobile_gif.gif' height=350 />
+<div style="display: flex; gap: 10px; flex-direction: row; align-items: flex-start; justify-content: flex-start; min-width: 600px; max-width: 800px; width: 800px">
+<img src='./images/moje_pizza/moje_pizza_web_gif.gif' height=auto width=600 />
+<img src='./images/moje_pizza/moje_pizza_mobile_gif.gif' height=330 />
 </div>
 
 ---
